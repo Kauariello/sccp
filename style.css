@@ -111,3 +111,26 @@ a:hover{
     box-shadow: 2px 2px 20px #000000;
     
 }
+
+.main_tit{
+    text-align: center;
+    padding-top: 10vw;
+    padding-bottom: 10px;
+}
+
+.main_list{
+    background-color: #111111;
+    margin: 5vw 20vw;
+   list-style-position: inside;
+   padding: 50px 30px;
+   text-align: center;
+   border-radius: 10px;
+   box-shadow: 2px 2px 20px #000000;
+
+}
+
+ul > li{
+    margin: 10px;
+   
+}
+

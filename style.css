@@ -120,7 +120,8 @@ a:hover{
 
 .main_list{
     background-color: #111111;
-    margin: 5vw 20vw;
+    margin: 5vw 14vw;
+    min-width: 290px;
    list-style-position: inside;
    padding: 50px 30px;
    text-align: center;

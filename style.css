@@ -123,6 +123,7 @@ a:hover{
     margin: 5vw 14vw;
     min-width: 290px;
    list-style-position: inside;
+   display: block;
    padding: 50px 30px;
    text-align: center;
    border-radius: 10px;
